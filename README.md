@@ -24,9 +24,12 @@
 ## HTTP Server Interactions
 
 In a new terminal window, run the following command:
+```console
 curl -X POST -H "Content-Type: application/json" \
      -d '{"username":"Notch"}' \
       http://[server-ip]:8080/whitelist
+```
+
 In order to whitelist a player (In this example, Notch)
 
 
