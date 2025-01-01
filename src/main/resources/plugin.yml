@@ -1,0 +1,11 @@
+name: ArisInviter
+main: xyz.aristotel.aristotelInviteSelection.AristotelInviteSelection
+author: DaniHere
+version: 1.1
+api-version: 1.21.4
+description: A plugin that allows any already whitelisted player to whitelist others, and to also do that via the HTTPServer.
+
+commands:
+  invite:
+    description: Invite a player (whitelist them).
+    usage: /invite <playerName>

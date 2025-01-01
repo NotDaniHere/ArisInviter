@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="aris_invites:jar">
+    <output-path>$PROJECT_DIR$/../../spigot/inviteSel</output-path>
+    <root id="archive" name="aris_invites.jar">
+      <element id="module-output" name="inviteSel" />
+    </root>
+  </artifact>
+</component>
