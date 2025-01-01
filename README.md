@@ -1,6 +1,6 @@
 # ArisInviter
 
-**ArisInviter** is a powerful and flexible Spigot plugin designed to enhance community engagement by introducing a robust invitation system for your Minecraft server. Players can invite others to join the server, track their invites, and earn rewards based on successful referrals.
+**ArisInviter** is a powerful and flexible Spigot plugin designed to enhance community engagement by introducing a robust invitation system for your Minecraft server. Players can invite others to join the server, from virtually anywhere!
 
 ## Features
 
