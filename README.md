@@ -47,7 +47,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Credits
 
-- Developed by [Your Name](https://github.com/NotDaniHere).
+- Developed by [NotDaniHere](https://github.com/NotDaniHere).
 - Powered by the Spigot API.
 
 ## Support
